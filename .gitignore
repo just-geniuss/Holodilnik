@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+.venv/
+.idea/
+*
+
+!/.gitignore
+!main.py
+!README.md
